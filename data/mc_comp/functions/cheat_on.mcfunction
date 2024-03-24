@@ -1,1 +1,2 @@
-scoreboard players set @a cheater 1
+scoreboard players set @s cheater 1
+say @s Activated Cheater
