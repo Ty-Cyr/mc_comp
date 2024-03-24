@@ -3,3 +3,5 @@ fill 0 0 0 64 0 64 minecraft:dirt
 
 scoreboard objectives add inHomeBase dummy
 scoreboard players set @a inHomeBase 0
+scoreboard objectives add killed minecraft.killed:player
+scoreboard players set @a killed 0
